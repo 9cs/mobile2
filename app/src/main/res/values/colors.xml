@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_agua">#FF2196F3</color>
+    <color name="azul_escuro">#FF0D47A1</color>
+    <color name="texto_principal">#FF263238</color>
+    <color name="texto_secundario">#FF607D8B</color>
+    <color name="fundo_tela">#FFF5FAFF</color>
+    <color name="alerta">#FFFF5722</color>
+</resources>

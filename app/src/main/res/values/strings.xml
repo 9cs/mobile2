@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hidratação</string>
+    <string name="titulo">Monitor de Hidratação</string>
+    <string name="dica_clique">Toque na barra para alternar entre porcentagem e ml</string>
+    <string name="alerta_meta">Atenção: o consumo ultrapassou a meta diária!</string>
+    <string name="label_consumo">Registrar consumo</string>
+    <string name="hint_consumo">Quantidade em ml (ex: 250)</string>
+    <string name="botao_registrar">Registrar Consumo</string>
+    <string name="label_meta">Meta diária</string>
+    <string name="hint_meta">Nova meta em ml (ex: 2000)</string>
+    <string name="botao_meta">Definir Meta</string>
+    <string name="label_registros">Registros de hoje</string>
+</resources>
